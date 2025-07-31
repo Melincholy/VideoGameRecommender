@@ -47,11 +47,4 @@ An interactive recommendation system built with machine learning and natural lan
 
 ---
 
-## 🧑‍💻 Running Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/RyanAJnj/videogame-recommender.git
-cd videogame-recommender
-
 
