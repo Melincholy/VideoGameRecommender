@@ -1,6 +1,6 @@
 # 🎮 Personalized AI Video Game Recommender
 
-An interactive recommendation system built with machine learning and natural language processing (NLP) to help users discover video games they'll enjoy based on their preferences and interests. Collaboration with RyanAJnj
+An interactive recommendation system built with machine learning and natural language processing (NLP) to help users discover video games they'll enjoy based on their preferences and interests. Collaboration with RyanAJnj.
 
 ## 🚀 Features
 
